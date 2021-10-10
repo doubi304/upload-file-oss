@@ -1,0 +1,17 @@
+{
+  "name": "upload-oss-lib",
+  "version": "1.0.0",
+  "description": "lib for oss file uploading(browser only)",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "xiao_hua <289253876@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {}
+}
